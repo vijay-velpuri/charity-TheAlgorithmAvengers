@@ -2,6 +2,8 @@
 
 PROBLEM STATEMENT : Centralised platform for NGO's and donors
 
+Video Link : https://drive.google.com/file/d/1ZAPlwql0daEyg_iS3r1gnoyL2_h55dGj/view?usp=sharing
+
 OBJECTIVES:
 
              ● To create a centralized platform that makes it easy for philanthropists to discover and support NGOs working in areas they are passionate about.
